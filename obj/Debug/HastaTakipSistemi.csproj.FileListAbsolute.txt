@@ -1,0 +1,12 @@
+C:\Users\Esma\Desktop\Hasta Takip Sistemi\HastaTakipSistemi\bin\Debug\HastaTakipSistemi.exe.config
+C:\Users\Esma\Desktop\Hasta Takip Sistemi\HastaTakipSistemi\bin\Debug\HastaTakipSistemi.exe
+C:\Users\Esma\Desktop\Hasta Takip Sistemi\HastaTakipSistemi\bin\Debug\HastaTakipSistemi.pdb
+C:\Users\Esma\Desktop\Hasta Takip Sistemi\HastaTakipSistemi\obj\Debug\HastaTakipSistemi.csproj.AssemblyReference.cache
+C:\Users\Esma\Desktop\Hasta Takip Sistemi\HastaTakipSistemi\obj\Debug\HastaTakipSistemi.Form1.resources
+C:\Users\Esma\Desktop\Hasta Takip Sistemi\HastaTakipSistemi\obj\Debug\HastaTakipSistemi.Properties.Resources.resources
+C:\Users\Esma\Desktop\Hasta Takip Sistemi\HastaTakipSistemi\obj\Debug\HastaTakipSistemi.csproj.GenerateResource.cache
+C:\Users\Esma\Desktop\Hasta Takip Sistemi\HastaTakipSistemi\obj\Debug\HastaTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Esma\Desktop\Hasta Takip Sistemi\HastaTakipSistemi\obj\Debug\HastaTakipSistemi.exe
+C:\Users\Esma\Desktop\Hasta Takip Sistemi\HastaTakipSistemi\obj\Debug\HastaTakipSistemi.pdb
+C:\Users\Esma\Desktop\Hasta Takip Sistemi\HastaTakipSistemi\obj\Debug\HastaTakipSistemi.frmkayıt.resources
+C:\Users\Esma\Desktop\Hasta Takip Sistemi\HastaTakipSistemi\obj\Debug\HastaTakipSistemi.frmAnasayfa.resources
